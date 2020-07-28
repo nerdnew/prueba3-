@@ -1,0 +1,97 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 27 Jul 2020 17:37:16 at https://grabr.io/es/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2t%Pns2u1%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://grabr.io/es/ -O1 "D:\paginas\encomiendas" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:38:15	Warning: 	Temporary Redirect for https://grabr.io/en/
+17:38:15	Warning: 	File has moved from https://grabr.io/en/ to /es/
+17:38:15	Warning: 	Temporary Redirect for https://grabr.io/ru/
+17:38:15	Warning: 	File has moved from https://grabr.io/ru/ to /es/
+17:38:15	Warning: 	Temporary Redirect for https://grabr.io/pt/
+17:38:15	Warning: 	File has moved from https://grabr.io/pt/ to /es/
+18:04:26	Error: 	"Not Found" (404) at link https://grabr.io/es/users/undefined (from https://grabr.io/es/grabs/Apple Watch Series 5 GPS + Cellular, 44mm Space Gray Aluminum Case with Alaskan Blue Sport Loop)
+18:07:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://grabr.io/chunks/dbfd6cb004aa6439f8de.js
+18:07:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://grabr.io/chunks/d3b549f36c1554668e68.js
+18:07:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://grabr.io/chunks/a7314a6a1563aaf2503a.js
+18:07:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://grabr.io/chunks/01037eb46fd738668184.js
+18:07:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://grabr.io/chunks/55994fbb6ccbfb196e1b.js
+18:07:54	Warning: 	HTML file (203405 bytes) retransferred due to lack of cache: https://grabr.io/es/travel
+18:07:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://grabr.io/chunks/a17066618f8556bef310.js
+18:07:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://grabr.io/chunks/eb48ff635988c1686236.js
+18:09:29	Warning: 	HTML file (122342 bytes) retransferred due to lack of cache: https://grabr.io/es/testimonials
+18:09:35	Warning: 	HTML file (43510 bytes) retransferred due to lack of cache: https://grabr.io/es/tutorial/traveler
+18:09:38	Warning: 	HTML file (211066 bytes) retransferred due to lack of cache: https://grabr.io/es/collections/264
+18:09:44	Warning: 	HTML file (86864 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1158520
+18:09:49	Warning: 	HTML file (86488 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1548953
+18:09:53	Warning: 	HTML file (82262 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1976432
+18:09:57	Warning: 	HTML file (83017 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1836998
+18:10:01	Warning: 	HTML file (127309 bytes) retransferred due to lack of cache: https://grabr.io/es/items/iphone-se-2020-black-64gb-unlocked-3516343
+18:10:06	Warning: 	HTML file (126056 bytes) retransferred due to lack of cache: https://grabr.io/es/items/dji-mavic-mini-2787893
+18:10:12	Warning: 	HTML file (128675 bytes) retransferred due to lack of cache: https://grabr.io/es/items/herschel-dawson-backpack-3003899
+18:10:17	Warning: 	HTML file (131482 bytes) retransferred due to lack of cache: https://grabr.io/es/items/google-nest-learning-thermostat-3rd-generation-stainless-steel-2992366
+18:10:22	Warning: 	HTML file (122934 bytes) retransferred due to lack of cache: https://grabr.io/es/items/nicorette-nicotine-gum-2mg-original-3595063
+18:10:28	Warning: 	HTML file (151227 bytes) retransferred due to lack of cache: https://grabr.io/es/items/polaroid-cube-action-camera-221373
+18:11:10	Warning: 	HTML file (126341 bytes) retransferred due to lack of cache: https://grabr.io/es/items/macbook-air-1-1ghz-quad-core-core-i5-3-5ghz-8gb-lpddr4x-512gb-ssd-gold-2020-3447131
+18:11:16	Warning: 	HTML file (174820 bytes) retransferred due to lack of cache: https://grabr.io/es/items/avegant-glyph-video-headset-395802
+18:11:22	Warning: 	HTML file (162826 bytes) retransferred due to lack of cache: https://grabr.io/es/items/580-deconstructed-beige-mens-30887
+18:11:27	Warning: 	HTML file (133035 bytes) retransferred due to lack of cache: https://grabr.io/es/items/nintendo-switch-online-family-membership-12-month-gift-card-nintendo-switch-digital-code-3461180
+18:11:33	Warning: 	HTML file (86515 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1895861
+18:11:37	Warning: 	HTML file (86941 bytes) retransferred due to lack of cache: https://grabr.io/es/users/595796
+18:11:41	Warning: 	HTML file (86085 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1976822
+18:11:45	Warning: 	HTML file (86530 bytes) retransferred due to lack of cache: https://grabr.io/es/users/272121
+18:11:49	Warning: 	HTML file (86587 bytes) retransferred due to lack of cache: https://grabr.io/es/users/512610
+18:11:53	Warning: 	HTML file (86518 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1976513
+18:11:58	Warning: 	HTML file (86485 bytes) retransferred due to lack of cache: https://grabr.io/es/users/611109
+18:12:01	Warning: 	HTML file (86508 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1958767
+18:12:06	Warning: 	HTML file (86496 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1459084
+18:12:10	Warning: 	HTML file (86506 bytes) retransferred due to lack of cache: https://grabr.io/es/users/748380
+18:12:52	Warning: 	HTML file (86521 bytes) retransferred due to lack of cache: https://grabr.io/es/users/668965
+18:13:05	Warning: 	HTML file (83131 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1746060
+18:13:10	Warning: 	HTML file (82989 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1972402
+18:13:14	Warning: 	HTML file (126097 bytes) retransferred due to lack of cache: https://grabr.io/es/items/iphone-11-64gb-white-apple-2489897
+18:13:19	Warning: 	HTML file (128400 bytes) retransferred due to lack of cache: https://grabr.io/es/items/airpods-pro-3046140
+18:13:26	Warning: 	HTML file (127863 bytes) retransferred due to lack of cache: https://grabr.io/es/items/adidas-alphabounce-beyond-shoes-2432939
+18:14:14	Warning: 	HTML file (129426 bytes) retransferred due to lack of cache: https://grabr.io/es/items/tie-bar-black-essential-3-pack-set-1983852
+18:14:19	Warning: 	HTML file (136026 bytes) retransferred due to lack of cache: https://grabr.io/es/items/canon-eos-rebel-t6-dslr-camera-with-18-55mm-and-75-300mm-lenses-kit-1965857
+18:15:34	Warning: 	HTML file (170550 bytes) retransferred due to lack of cache: https://grabr.io/es/items/bluephonic-bluetooth-wireless-headphones-800359
+18:15:37	Warning: 	HTML file (150304 bytes) retransferred due to lack of cache: https://grabr.io/es/items/16-inch-macbook-pro-space-gray-2-6ghz-6-core-processor-2833290
+18:15:39	Warning: 	HTML file (144359 bytes) retransferred due to lack of cache: https://grabr.io/es/items/marvels-spider-man-playstation-4-2037048
+18:15:42	Warning: 	HTML file (154658 bytes) retransferred due to lack of cache: https://grabr.io/es/items/rawlings-official-mlb-baseball-498904
+18:15:44	Warning: 	HTML file (154654 bytes) retransferred due to lack of cache: https://grabr.io/es/items/glow-fob-keychain-9527
+18:15:47	Warning: 	HTML file (158861 bytes) retransferred due to lack of cache: https://grabr.io/es/items/cat-iphone-7-7-plus-case-39277
+18:15:49	Warning: 	HTML file (161546 bytes) retransferred due to lack of cache: https://grabr.io/es/items/oxford-button-up-shirt-white-stripe-25241
+18:15:52	Warning: 	HTML file (119968 bytes) retransferred due to lack of cache: https://grabr.io/es/items/airpods-1503023
+18:15:54	Warning: 	HTML file (127721 bytes) retransferred due to lack of cache: https://grabr.io/es/items/beauty-blender-2019134
+18:15:56	Warning: 	HTML file (131427 bytes) retransferred due to lack of cache: https://grabr.io/es/items/sunday-riley-flash-fix-kit-2054158
+18:15:58	Warning: 	HTML file (165549 bytes) retransferred due to lack of cache: https://grabr.io/es/grabs/Apple%20Watch%20Series%205%20GPS%20+%20Cellular,%2044mm%20Space%20Gray%20Aluminum%20Case%20with%20Alaskan%20Blue%20Sport%20Loop
+18:16:10	Warning: 	HTML file (86610 bytes) retransferred due to lack of cache: https://grabr.io/es/users/288753
+18:16:12	Warning: 	HTML file (122187 bytes) retransferred due to lack of cache: https://grabr.io/es/items/iphone-x-2336334
+18:16:14	Warning: 	HTML file (182002 bytes) retransferred due to lack of cache: https://grabr.io/es/grabs/3555469
+18:16:18	Warning: 	HTML file (83100 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1679643
+18:16:19	Warning: 	HTML file (86592 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1452179
+18:16:21	Warning: 	HTML file (86493 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1009114
+18:16:22	Warning: 	HTML file (86196 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1279260
+18:16:24	Warning: 	HTML file (86087 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1976838
+18:16:25	Warning: 	HTML file (83035 bytes) retransferred due to lack of cache: https://grabr.io/es/users/164224
+18:16:27	Warning: 	HTML file (83116 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1976672
+18:16:28	Warning: 	HTML file (83031 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1947839
+18:16:30	Warning: 	HTML file (83005 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1965124
+18:16:32	Warning: 	HTML file (81919 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1976264
+18:16:33	Warning: 	HTML file (83014 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1808391
+18:16:35	Warning: 	HTML file (86547 bytes) retransferred due to lack of cache: https://grabr.io/es/users/760965
+18:16:36	Warning: 	HTML file (86485 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1580023
+18:16:38	Warning: 	HTML file (86670 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1975622
+18:16:39	Warning: 	HTML file (86502 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1976511
+18:16:41	Warning: 	HTML file (83029 bytes) retransferred due to lack of cache: https://grabr.io/es/users/118171
+18:16:42	Warning: 	HTML file (83092 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1976351
+18:16:44	Warning: 	HTML file (83066 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1456073
+18:16:45	Warning: 	HTML file (86483 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1974215
+18:16:47	Warning: 	HTML file (86488 bytes) retransferred due to lack of cache: https://grabr.io/es/users/1975573
+18:16:49	Warning: 	HTML file (86487 bytes) retransferred due to lack of cache: https://grabr.io/es/users/142351
+18:16:50	Warning: 	HTML file (82595 bytes) retransferred due to lack of cache: https://grabr.io/es/users/712335
+
+HTTrack Website Copier/3.49-2 mirror complete in 40 minutes 16 seconds : 934 links scanned, 1015 files written (161707834 bytes overall) [104913173 bytes received at 43424 bytes/sec], 77466603 bytes transferred using HTTP compression in 526 files, ratio 25%, 1.3 requests per connection
+(1 errors, 85 warnings, 0 messages)

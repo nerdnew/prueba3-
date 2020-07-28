@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	NID	204=CWfefwN-0DVV8CYyTBpcCOWjMDfwtdnB1vMgqbnhLs8FfkHL3BaSHZCWgoeMvAiaKk1FtAhr5D7Ct0B7PmjgoROUkhcIevv3saZu1KQ8vd6BrHP9tLTJdaqH6dqurOLhe7rVixTkDVcdNbBKo9OgtJ3sE-vZDQ65bY-CwNi7z2M
+grabr.io	TRUE	/	FALSE	1999999999	itm_campaign	iPhoneSE2020
+grabr.io	TRUE	/	FALSE	1999999999	itm_source	widescreenbanner
+grabr.io	TRUE	/	FALSE	1999999999	itm_term	br
+grabr.io	TRUE	/	FALSE	1999999999	itm_content	87
+grabr.io	TRUE	/	FALSE	1999999999	itm_medium	none
+grabr.io	TRUE	/	FALSE	1999999999	locale	es
+
